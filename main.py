@@ -299,7 +299,7 @@ def main():
 
 # Run main function
 if __name__ == '__main__':
-    host = '184.168.107.73'
+    host = '198.12.237.105'
     port = 3306
     username = 'blaqbook_user'
     password = 'n!Ps^+,*L[vI'
